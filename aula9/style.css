@@ -1,0 +1,13 @@
+a:link{
+  color: blue;
+}
+a:hover{
+  color: pink;
+}
+a:visited{
+  color: red;
+}
+a:focus{
+  border: black;
+}
+
