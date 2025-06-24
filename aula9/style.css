@@ -22,3 +22,6 @@ li:nth-child(odd){
 li:nth-child(even){
   background-color: lilac;
 }
+input[required]{
+  border: 2px purple;
+}
