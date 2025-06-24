@@ -8,6 +8,17 @@ a:visited{
   color: red;
 }
 a:focus{
-  border: black;
+  border: 2px gray;
 }
-
+li:first-child{
+  font-weight: bolder;
+}
+li:last-child{
+  color: green;
+}
+li:nth-child(odd){
+  background-color: light-blue;
+}
+li:nth-child(even){
+  background-color: lilac;
+}
