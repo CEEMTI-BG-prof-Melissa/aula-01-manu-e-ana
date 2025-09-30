@@ -17,4 +17,10 @@ div{
 }
 
 #bloco3{
-   background-image: 
+   background-image: url("skate.jpg");
+   background-position: center;
+}
+
+#bloco4{
+   background-image: url("");
+   background-size: cover;
