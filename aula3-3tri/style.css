@@ -1,5 +1,14 @@
 h1{
   text-align: center;
   letter-spacing: 5px;
-  text-uppercase
+  text-transformation: uppercase;
+  text-shadow: 2px 2px 4px gray;
 }
+
+h2{
+  text-align: right;
+  word-spacing: 10px;
+  text-transformation: captalize;
+  text-decoration-line: overline;
+}
+
